@@ -244,9 +244,3 @@ conversaciones        Telegram chat history (for AI context window)
 - Service role key only used server-side, never exposed to the browser
 - Prompt injection attempts handled at the system prompt level
 
----
-
-## Author
-
-**José Rossi** — Industrial Engineer | Data & Full-Stack Development  
-[LinkedIn](https://linkedin.com/in/jose-rossi) · [GitHub](https://github.com/joserossiuv)
